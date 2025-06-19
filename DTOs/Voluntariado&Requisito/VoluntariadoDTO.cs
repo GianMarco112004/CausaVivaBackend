@@ -9,6 +9,7 @@
         public String Direccion { get; set; }
         public DateTime FechaInicio { get; set; }
         public DateTime FechaFinal { get; set; }
+        public Boolean Estado {  get; set; }
     }
 
     public class VoluntariadoDetalleDTO

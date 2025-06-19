@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gianm\\source\\repos\\CausaViva\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|c:\\users\\gianm\\source\\repos\\causaviva\\services\\seguridadlogin\\iseguridadloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|solutionrelative:services\\seguridadlogin\\iseguridadloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|c:\\users\\gianm\\source\\repos\\causaviva\\services\\voluntariado\u0026requisito\\voluntariado\u0026requisitosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|solutionrelative:services\\voluntariado\u0026requisito\\voluntariado\u0026requisitosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|c:\\users\\gianm\\source\\repos\\causaviva\\services\\voluntariado\u0026requisito\\ivoluntariado\u0026requisitoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|solutionrelative:services\\voluntariado\u0026requisito\\ivoluntariado\u0026requisitoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|c:\\users\\gianm\\source\\repos\\causaviva\\dtos\\voluntariado\u0026requisito\\voluntariadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|solutionrelative:dtos\\voluntariado\u0026requisito\\voluntariadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|c:\\users\\gianm\\source\\repos\\causaviva\\services\\seguridadlogin\\iseguridadloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|solutionrelative:services\\seguridadlogin\\iseguridadloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|c:\\users\\gianm\\source\\repos\\causaviva\\services\\seguridadlogin\\seguridadloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,94 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoluntariadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\DTOs\\Voluntariado\u0026Requisito\\VoluntariadoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Voluntariado\u0026Requisito\\VoluntariadoDTO.cs",
+              "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\DTOs\\Voluntariado\u0026Requisito\\VoluntariadoDTO.cs",
+              "RelativeToolTip": "DTOs\\Voluntariado\u0026Requisito\\VoluntariadoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:13:47.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Voluntariado\u0026RequisitosService.cs",
+              "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\Voluntariado\u0026Requisito\\Voluntariado\u0026RequisitosService.cs",
+              "RelativeDocumentMoniker": "Services\\Voluntariado\u0026Requisito\\Voluntariado\u0026RequisitosService.cs",
+              "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\Voluntariado\u0026Requisito\\Voluntariado\u0026RequisitosService.cs",
+              "RelativeToolTip": "Services\\Voluntariado\u0026Requisito\\Voluntariado\u0026RequisitosService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowE4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:19:27.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeguridadLoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\SeguridadLogin\\SeguridadLoginRepository.cs",
+              "RelativeDocumentMoniker": "Services\\SeguridadLogin\\SeguridadLoginRepository.cs",
+              "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\SeguridadLogin\\SeguridadLoginRepository.cs",
+              "RelativeToolTip": "Services\\SeguridadLogin\\SeguridadLoginRepository.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwHsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:41:45.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeguridadLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\DTOs\\SeguridadLogin\\SeguridadLoginDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\SeguridadLogin\\SeguridadLoginDTO.cs",
+              "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\DTOs\\SeguridadLogin\\SeguridadLoginDTO.cs",
+              "RelativeToolTip": "DTOs\\SeguridadLogin\\SeguridadLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:39:24.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:49:18.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserMenuDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\DTOs\\UserMenu\\UserMenuDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserMenu\\UserMenuDTO.cs",
+              "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\DTOs\\UserMenu\\UserMenuDTO.cs",
+              "RelativeToolTip": "DTOs\\UserMenu\\UserMenuDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:15:33.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVoluntariado\u0026RequisitoService.cs",
+              "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\Voluntariado\u0026Requisito\\IVoluntariado\u0026RequisitoService.cs",
+              "RelativeDocumentMoniker": "Services\\Voluntariado\u0026Requisito\\IVoluntariado\u0026RequisitoService.cs",
+              "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\Voluntariado\u0026Requisito\\IVoluntariado\u0026RequisitoService.cs",
+              "RelativeToolTip": "Services\\Voluntariado\u0026Requisito\\IVoluntariado\u0026RequisitoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:07:15.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ISeguridadLoginRepository.cs",
               "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\SeguridadLogin\\ISeguridadLoginRepository.cs",
               "RelativeDocumentMoniker": "Services\\SeguridadLogin\\ISeguridadLoginRepository.cs",
@@ -67,79 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Voluntariado\u0026RequisitosService.cs",
-              "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\Voluntariado\u0026Requisito\\Voluntariado\u0026RequisitosService.cs",
-              "RelativeDocumentMoniker": "Services\\Voluntariado\u0026Requisito\\Voluntariado\u0026RequisitosService.cs",
-              "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\Voluntariado\u0026Requisito\\Voluntariado\u0026RequisitosService.cs",
-              "RelativeToolTip": "Services\\Voluntariado\u0026Requisito\\Voluntariado\u0026RequisitosService.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAswJEAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T05:19:27.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SeguridadLoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\SeguridadLogin\\SeguridadLoginRepository.cs",
-              "RelativeDocumentMoniker": "Services\\SeguridadLogin\\SeguridadLoginRepository.cs",
-              "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\SeguridadLogin\\SeguridadLoginRepository.cs",
-              "RelativeToolTip": "Services\\SeguridadLogin\\SeguridadLoginRepository.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAwwHsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T17:41:45.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SeguridadLoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\DTOs\\SeguridadLogin\\SeguridadLoginDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\SeguridadLogin\\SeguridadLoginDTO.cs",
-              "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\DTOs\\SeguridadLogin\\SeguridadLoginDTO.cs",
-              "RelativeToolTip": "DTOs\\SeguridadLogin\\SeguridadLoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T17:39:24.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T17:49:18.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserMenuDTO.cs",
-              "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\DTOs\\UserMenu\\UserMenuDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\UserMenu\\UserMenuDTO.cs",
-              "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\DTOs\\UserMenu\\UserMenuDTO.cs",
-              "RelativeToolTip": "DTOs\\UserMenu\\UserMenuDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T18:15:33.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IVoluntariado\u0026RequisitoService.cs",
-              "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\Voluntariado\u0026Requisito\\IVoluntariado\u0026RequisitoService.cs",
-              "RelativeDocumentMoniker": "Services\\Voluntariado\u0026Requisito\\IVoluntariado\u0026RequisitoService.cs",
-              "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\Voluntariado\u0026Requisito\\IVoluntariado\u0026RequisitoService.cs",
-              "RelativeToolTip": "Services\\Voluntariado\u0026Requisito\\IVoluntariado\u0026RequisitoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T05:07:15.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "VoluntariadoRequisitoController.cs",
               "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Controllers\\VoluntariadoRequisitoController.cs",
               "RelativeDocumentMoniker": "Controllers\\VoluntariadoRequisitoController.cs",
@@ -151,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SeguridadLoginController.cs",
               "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Controllers\\SeguridadLoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\SeguridadLoginController.cs",
