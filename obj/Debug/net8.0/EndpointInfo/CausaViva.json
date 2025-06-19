@@ -885,6 +885,9 @@
           "descripcionRequisito": {
             "type": "string",
             "nullable": true
+          },
+          "estado": {
+            "type": "boolean"
           }
         },
         "additionalProperties": false

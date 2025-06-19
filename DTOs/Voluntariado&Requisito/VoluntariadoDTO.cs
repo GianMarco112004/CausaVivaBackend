@@ -44,6 +44,7 @@
         public DateTime FechaInicio { get; set; }
         public DateTime FechaFinal { get; set; }
         public String DescripcionRequisito { get; set; }
+        public Boolean Estado {  get; set; }
     }
 
     public class VoluntariadoReqDTO

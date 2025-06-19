@@ -111,7 +111,8 @@ namespace CausaViva.Services.Voluntariado_Requisito
                                 Direccion = reader.GetString(reader.GetOrdinal("Direccion")),
                                 FechaInicio = reader.GetDateTime(reader.GetOrdinal("FechaInicio")),
                                 FechaFinal = reader.GetDateTime(reader.GetOrdinal("FechaFinal")),
-                                DescripcionRequisito = reader.GetString(reader.GetOrdinal("Descripcion"))
+                                DescripcionRequisito = reader.GetString(reader.GetOrdinal("Descripcion")),
+                                Estado = reader.GetBoolean(reader.GetOrdinal("Estado"))
                             });
 
 
