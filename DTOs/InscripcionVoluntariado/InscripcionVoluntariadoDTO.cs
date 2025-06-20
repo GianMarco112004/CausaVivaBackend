@@ -21,6 +21,7 @@ namespace CausaViva.DTOs.InscripcionVoluntariado
     public class InscripcionVolDatosPanelOrganizacionDTO
     {
         public Int32 IdVoluntariado { get; set; }
+        public Int32 IdInscripcion { get; set; }
         public String Nombres {  get; set; }
         public String EstadoInscripcion { get; set; }
         public DateTime FechaInscripcion { get; set; }

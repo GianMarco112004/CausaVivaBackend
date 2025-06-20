@@ -88,6 +88,7 @@ namespace CausaViva.Services.InscripcionVoluntariado
                             inscripcion.Add(new InscripcionVolDatosPanelOrganizacionDTO
                             {
                                 IdVoluntariado = reader.GetInt32(reader.GetOrdinal("IdVoluntariado")),
+                                IdInscripcion = reader.GetInt32(reader.GetOrdinal("IdInscripcion")),
                                 Nombres = reader.GetString(reader.GetOrdinal("Nombres")),
                                 EstadoInscripcion = reader.GetString(reader.GetOrdinal("EstadoInscripcion")),
                                 FechaInscripcion = reader.GetDateTime(reader.GetOrdinal("FechaInscripcion")),

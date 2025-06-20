@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CausaViva")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f195d622dce853a094eb1b6f18d9c7c36728ac8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b03b3a8a4ecd6365343bd29072c979b059e28ae4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CausaViva")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CausaViva")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

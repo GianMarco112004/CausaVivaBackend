@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|solutionrelative:services\\inscripcionvoluntariado\\inscripcionvoluntariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|c:\\users\\gianm\\source\\repos\\causaviva\\dtos\\inscripcionvoluntariado\\inscripcionvoluntariadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|solutionrelative:dtos\\inscripcionvoluntariado\\inscripcionvoluntariadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|c:\\users\\gianm\\source\\repos\\causaviva\\services\\inscripcionvoluntariado\\iinscripcionvoluntariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|solutionrelative:services\\inscripcionvoluntariado\\iinscripcionvoluntariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|c:\\users\\gianm\\source\\repos\\causaviva\\dtos\\inscripcionvoluntariado\\inscripcionvoluntariadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|solutionrelative:dtos\\inscripcionvoluntariado\\inscripcionvoluntariadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F364C387-6135-45AB-947C-A797C2F9568E}|CausaViva.csproj|c:\\users\\gianm\\source\\repos\\causaviva\\controllers\\inscripcionvoluntariadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,12 +82,11 @@
               "RelativeToolTip": "Controllers\\InscripcionVoluntariadoController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T02:39:58.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T02:39:58.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IInscripcionVoluntariado.cs",
               "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\InscripcionVoluntariado\\IInscripcionVoluntariado.cs",
               "RelativeDocumentMoniker": "Services\\InscripcionVoluntariado\\IInscripcionVoluntariado.cs",
@@ -106,7 +105,7 @@
               "RelativeDocumentMoniker": "Services\\InscripcionVoluntariado\\InscripcionVoluntariado.cs",
               "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\Services\\InscripcionVoluntariado\\InscripcionVoluntariado.cs",
               "RelativeToolTip": "Services\\InscripcionVoluntariado\\InscripcionVoluntariado.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAwwE8AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFwAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T00:38:57.882Z",
               "EditorCaption": ""
@@ -121,8 +120,7 @@
               "RelativeToolTip": "Services\\Voluntariado\u0026Requisito\\Voluntariado\u0026RequisitosService.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAwwFgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T05:19:27.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T05:19:27.899Z"
             },
             {
               "$type": "Document",
@@ -134,18 +132,17 @@
               "RelativeToolTip": "Services\\Voluntariado\u0026Requisito\\IVoluntariado\u0026RequisitoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T05:07:15.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T05:07:15.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InscripcionVoluntariadoDTO.cs",
               "DocumentMoniker": "C:\\Users\\gianm\\source\\repos\\CausaViva\\DTOs\\InscripcionVoluntariado\\InscripcionVoluntariadoDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\InscripcionVoluntariado\\InscripcionVoluntariadoDTO.cs",
               "ToolTip": "C:\\Users\\gianm\\source\\repos\\CausaViva\\DTOs\\InscripcionVoluntariado\\InscripcionVoluntariadoDTO.cs",
               "RelativeToolTip": "DTOs\\InscripcionVoluntariado\\InscripcionVoluntariadoDTO.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADgvxQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAlwBgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T00:37:02.127Z",
               "EditorCaption": ""
@@ -160,8 +157,7 @@
               "RelativeToolTip": "Controllers\\VoluntariadoRequisitoController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAqwCUAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T05:26:55.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T05:26:55.978Z"
             },
             {
               "$type": "Document",
@@ -173,8 +169,7 @@
               "RelativeToolTip": "DTOs\\Voluntariado\u0026Requisito\\VoluntariadoDTO.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAArwCUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T18:13:47.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T18:13:47.969Z"
             },
             {
               "$type": "Document",
@@ -186,8 +181,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T17:49:18.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T17:49:18.682Z"
             },
             {
               "$type": "Document",
