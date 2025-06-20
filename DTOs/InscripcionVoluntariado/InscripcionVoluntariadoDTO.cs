@@ -10,6 +10,7 @@ namespace CausaViva.DTOs.InscripcionVoluntariado
 
     public class InscripcionVolDatosPanelUsuarioDTO
     {
+        public Int32 IdVoluntariado { get; set; }
         public Int32 IdInscripcion { get; set; }
         public String TituloPropuesta { get; set; }
         public String EstadoInscripcion { get; set; }
@@ -19,7 +20,6 @@ namespace CausaViva.DTOs.InscripcionVoluntariado
 
     public class InscripcionVolDatosPanelOrganizacionDTO
     {
-        [JsonIgnore]
         public String IdOrganizacion { get; set; }
         public Int32 IdInscripcion { get; set; }
         public String Nombre {  get; set; }

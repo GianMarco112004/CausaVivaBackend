@@ -53,6 +53,7 @@ namespace CausaViva.Services.InscripcionVoluntariado
                         {
                             inscripcion.Add(new InscripcionVolDatosPanelUsuarioDTO
                             {
+                                IdVoluntariado = reader.GetInt32(reader.GetOrdinal("IdVoluntariado")),
                                 IdInscripcion = reader.GetInt32(reader.GetOrdinal("IdInscripcion")),
                                 TituloPropuesta = reader.GetString(reader.GetOrdinal("TituloPropuesta")),
                                 EstadoInscripcion = reader.GetString(reader.GetOrdinal("EstadoInscripcion")),
@@ -86,6 +87,7 @@ namespace CausaViva.Services.InscripcionVoluntariado
                         {
                             inscripcion.Add(new InscripcionVolDatosPanelOrganizacionDTO
                             {
+                                IdOrganizacion = reader.GetString(reader.GetOrdinal("IdOrganizacion")),
                                 IdInscripcion = reader.GetInt32(reader.GetOrdinal("IdInscripcion")),
                                 Nombre = reader.GetString(reader.GetOrdinal("Nombre")),
                                 Apellido = reader.GetString(reader.GetOrdinal("Apellido")),
