@@ -21,7 +21,18 @@ builder.Services.AddScoped<ISeguridadLoginRepository, SeguridadLoginRepository>(
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("PermitirFrontend", policy =>
+    {
+        policy.WithOrigins("http://localhost:5173") // Tu frontend Vite/Vue
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
 var app = builder.Build();
+
 
 
 
@@ -35,7 +46,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
+app.UseCors("PermitirFrontend");
 app.MapControllers();
 
 app.Run();
