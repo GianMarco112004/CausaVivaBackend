@@ -45,10 +45,11 @@
         ],
         "parameters": [
           {
-            "name": "IdOrganizacion",
+            "name": "IdVoluntariado",
             "in": "query",
             "schema": {
-              "type": "string"
+              "type": "integer",
+              "format": "int32"
             }
           }
         ],

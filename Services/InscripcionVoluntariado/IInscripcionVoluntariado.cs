@@ -7,7 +7,7 @@ namespace CausaViva.Services.InscripcionVoluntariado
     {
         Task InscripcionVol(InscripcionVoluntariadoDTO inscripcion);
         Task<IEnumerable<InscripcionVolDatosPanelUsuarioDTO>> GetInsVolPanelUsuario(String IdUsuario);
-        Task<IEnumerable<InscripcionVolDatosPanelOrganizacionDTO>> GetInsVolPanelOrganizacion(String IdOrganizacion);
+        Task<IEnumerable<InscripcionVolDatosPanelOrganizacionDTO>> GetInsVolPanelOrganizacion(Int32 IdVoluntariado);
         Task ActualizarEstadoInscripcion(InscripcionVolActualizarDTO inscripcion);
     }
 

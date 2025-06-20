@@ -27,9 +27,9 @@ namespace CausaViva.Controllers
         }
 
         [HttpGet("PanelOrganizacion")]
-        public async Task<IActionResult> GetInsVolPanelOrganizacion (String IdOrganizacion)
+        public async Task<IActionResult> GetInsVolPanelOrganizacion (Int32 IdVoluntariado)
         {
-            var inscripcion = await _inscripcionVoluntariado.GetInsVolPanelOrganizacion(IdOrganizacion);
+            var inscripcion = await _inscripcionVoluntariado.GetInsVolPanelOrganizacion(IdVoluntariado);
             return Ok(inscripcion);
         }
 

@@ -68,7 +68,7 @@ namespace CausaViva.Services.InscripcionVoluntariado
             }
             return inscripcion;
         }
-        public async Task<IEnumerable<InscripcionVolDatosPanelOrganizacionDTO>> GetInsVolPanelOrganizacion(String IdOrganizacion)
+        public async Task<IEnumerable<InscripcionVolDatosPanelOrganizacionDTO>> GetInsVolPanelOrganizacion(Int32 IdVoluntariado)
         {
             var inscripcion = new List<InscripcionVolDatosPanelOrganizacionDTO>();
 
@@ -77,7 +77,7 @@ namespace CausaViva.Services.InscripcionVoluntariado
                 using (var command = new SqlCommand("dbo.sp_obtenerinscripcionorganizacion", connection))
                 {
                     command.CommandType = CommandType.StoredProcedure;
-                    command.Parameters.AddWithValue("@pIdOrganizacion", IdOrganizacion);
+                    command.Parameters.AddWithValue("@pIdVoluntariado", IdVoluntariado);
 
                     await connection.OpenAsync();
 
@@ -87,13 +87,12 @@ namespace CausaViva.Services.InscripcionVoluntariado
                         {
                             inscripcion.Add(new InscripcionVolDatosPanelOrganizacionDTO
                             {
-                                IdOrganizacion = reader.GetString(reader.GetOrdinal("IdOrganizacion")),
-                                IdInscripcion = reader.GetInt32(reader.GetOrdinal("IdInscripcion")),
-                                Nombre = reader.GetString(reader.GetOrdinal("Nombre")),
-                                Apellido = reader.GetString(reader.GetOrdinal("Apellido")),
+                                IdVoluntariado = reader.GetInt32(reader.GetOrdinal("IdVoluntariado")),
+                                Nombres = reader.GetString(reader.GetOrdinal("Nombres")),
                                 EstadoInscripcion = reader.GetString(reader.GetOrdinal("EstadoInscripcion")),
                                 FechaInscripcion = reader.GetDateTime(reader.GetOrdinal("FechaInscripcion")),
-                                TituloPropuesta = reader.GetString(reader.GetOrdinal("TituloPropuesta"))
+                                TituloPropuesta = reader.GetString(reader.GetOrdinal("TituloPropuesta")),
+                                Descripcion = reader.GetString(reader.GetOrdinal("Descripcion"))
                             });
 
 
